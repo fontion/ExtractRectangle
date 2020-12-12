@@ -16,3 +16,9 @@ A handy tool extracts a rectangle region in the scene (a quadrilateral in the im
 1. Scan a paper by photography
 2. Actions demands to four-point perspective transformation on the image
 3. Quick crop specific region in the image and perform white balance correction
+
+# How to use
+Just Execute ExtractRectangle.m
+
+# Postscript
+Linux UI only test on ubuntu 20.04 gnome desktop (default desktop)
