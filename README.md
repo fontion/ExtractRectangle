@@ -1,4 +1,4 @@
-# Extract Rectangle
+# Extract Rectangle (MATLAB GUI)
 A handy tool extracts a rectangle region in the scene (a quadrilateral in the image) and correct perspective projection distortion back to a rectangle.  Users can assign the specific size of the output image (i.g., usual paper sizes like A4 or manually assign width and height)
 
 # Functions
